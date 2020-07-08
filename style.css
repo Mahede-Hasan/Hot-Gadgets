@@ -1,0 +1,84 @@
+.buy-now-button{
+    border: none;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 6px 18px;
+}
+#icon-slide-1, #icon-slide-2, #icon-slide-3{
+    background-color: orange;
+    padding: 1px 7px;
+    margin-top: 30px;
+}
+
+.see-all{
+    color: orange;
+}
+.header-area{
+    padding-top: 50px;
+}
+.container{
+    margin-bottom: 80px;
+}
+.phone, .dollar, .btn-2{
+    text-align: center;
+    font-weight: bold;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+}
+.arrow{
+    width: 72px;
+    height: 6px;
+    border-radius: 5px;
+    background-color: orange;
+    margin-left: 47%;
+}
+.categories{
+    text-align: center;
+}
+.half img{
+    width: 100%;
+}
+.box-1{
+    box-shadow: 10px 10px 20px lightgray;
+    width: 200px;
+    height: 230px;
+    padding-top: 35px;
+    padding-left: 30px;
+    margin-left: 30px;
+}
+.beauty{
+    padding-left: 35px;
+    padding-top: 15px;
+}
+.box-2{
+    box-shadow: 10px 10px 20px lightgray;
+    width: 200px;
+    height: 230px;
+    padding-top: 40px;
+    padding-left: 30px;
+    margin-left: 30px;
+}
+.shoes{
+    padding-left: 35px;
+    
+}
+.box{
+    box-shadow: 10px 10px 20px lightgray;
+    width: 200px;
+    height: 230px;
+    padding-top: 35px;
+    padding-left: 32px;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.bag{
+    padding-left: 48px;
+    padding-top: 10px;
+}
+.home a{
+    padding: 10px 30px;
+}
